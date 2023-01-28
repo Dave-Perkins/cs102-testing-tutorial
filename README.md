@@ -8,7 +8,7 @@ If you would like to test your code before submitting it, clone this repository 
 bash run_tests.sh
 ```
 
-The output should look like this if you use the default assignment01.cpp file:
+The output should look like this if you use the default `assignment01.cpp` file:
 
 ```
 dperkins@Mac-24024 test_running % bash run_tests.sh
