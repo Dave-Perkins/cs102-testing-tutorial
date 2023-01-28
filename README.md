@@ -1,4 +1,4 @@
-# cs102-testing-tutorial
+# cs230-testing-tutorial
 
 The file `run_tests.sh` is the "script" that we will use to run tests on your coding assignments. 
 
