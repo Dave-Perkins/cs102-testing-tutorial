@@ -11,10 +11,14 @@ bash run_tests.sh
 The output should look like this if you use the default `assignment01.cpp` file:
 
 ```
-dperkins@Mac-24024 test_running % bash run_tests.sh
 >>> running tests01/test01.txt
 Here's the data from the input file:  3 6 4 5 2
 
 >>> running tests01/test02.txt
-Here's the data from the input file:  6 3 2 4 1 7 8
+Here's the data from the input file:  6 13 2 4 11 7 18
+
+>>> running tests01/test03.txt
+Here's the data from the input file:  8 7 6 6 4 4 2 1 1
 ```
+
+The output will change to whatever output you chose to include in your program.
