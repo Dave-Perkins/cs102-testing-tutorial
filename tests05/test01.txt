@@ -1,0 +1,4 @@
+num_elements 8
+20 12 17 8 5 22 13 19
+delete 12
+ 
