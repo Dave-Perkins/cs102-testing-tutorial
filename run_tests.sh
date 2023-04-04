@@ -2,7 +2,7 @@
 g++ -std=c++17 -o assignment assignment.cpp
 
 # Change this to the name of your subfolder:
-pth=$"tests05/"
+pth=$"tests06/"
 
 for test in ${pth}*.txt; do
 
